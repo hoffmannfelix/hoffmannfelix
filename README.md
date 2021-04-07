@@ -2,6 +2,7 @@
 
 🚀 Interested in using data to create business value <br />
 📚 Currently learning ML with @MLU on YouTube <br />
+👦 fun fact: passionate about soccer refereeing and stocks
 
 
 <br />

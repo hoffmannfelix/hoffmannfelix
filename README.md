@@ -1,7 +1,7 @@
 ## Felix Hoffmann (22)
 
-⭐ Interested in using data to create business value <br />
-🚀 Currently learning ML with @MLU on YouTube <br />
+🚀 Interested in using data to create business value <br />
+📚 Currently learning ML with @MLU on YouTube <br />
 
 
 <br />

@@ -2,17 +2,16 @@
 
 🚀 Interested in using data to create business value <br />
 📚 Currently learning ML @Machine Learning University on YouTube <br />
-👦 fun fact: passionate soccer referee and stock trader
+👦 fun fact: passionate soccer referee and stock trader <br />
 
-### Connect with me:
 
+#### Connect with me:
 [<img align="left" alt="Felix Hoffmann | LinkedIn" height="22px" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" />][linkedin]
 [<img align="left" alt="Felix Hoffmann | Xing" height="22px" src="https://upload.wikimedia.org/wikipedia/commons/b/b4/Xing_logo.svg" />][xing]
 
 <br />
 
-### Languages and Tools:
-
+#### Languages and Tools:
 [<img align="left" alt="AWS" height="22px" src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" />][aws]
 [<img align="left" alt="Azure" height="22px" src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Microsoft_Azure_Logo.svg" />][azure]
 [<img align="left" alt="Celonis" height="25px" src="https://pbs.twimg.com/profile_images/1316752706934112260/H7g1SH2A_400x400.jpg" />][celonis]
@@ -21,7 +20,6 @@
 [<img align="left" alt="Python" height="22px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" />][python]
 [<img align="left" alt="R" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/r.svg" />][r]
 
-<br />
 <br />
 
 [linkedin]: https://www.linkedin.com/in/hoffmann-felix/

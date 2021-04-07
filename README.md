@@ -2,7 +2,7 @@
 
 🚀 Interested in using data to create business value <br />
 📚 Currently learning ML @Machine Learning University on YouTube <br />
-👦 fun fact: passionate soccer referee and stock trader <br />
+⭐ fun fact: passionate soccer referee and stock trader <br />
 
 
 #### Connect with me:
